@@ -1,16 +1,22 @@
-## Hi there 👋
+## Maximilian Schumacher 👋
+
+
+👨🏼‍🎓 I’m currently working on my master’s thesis at the [Gene Center Munich](https://www.genzentrum.uni-muenchen.de/research-groups/klughammer/index.html).
 
 <!--
-**schummax/schummax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 I’m currently learning ...
 -->
+
+📫 How to reach me: [schummax@icloud.com](mailto:schummax@icloud.com)
+
+💻 I've got experience working with:
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
+[![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=000000&logo=gnubash&logoColor=FFFFFF)](https://www.bash.org/)
+...
+
+### Project Portfolio 
+**(🚫 Work in progress ...)**
+
+| 🚀 **Project** | 🔗 **Link** | 🟢 **Skills** |
+| - | - | - |
+| P1 | L1 | S1 |
