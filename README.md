@@ -56,7 +56,7 @@ I am a biotechnology professional with a passion for leveraging computational to
 
 ### 🚀 Project Portfolio
 
-Here is a selection of projects demonstrating my skills. They range from reproducing key findings of major publications to benchmarking analysis tools and re-analyzing public datasets with modern techniques.
+**(🚫 Work in progress ...)**
 <!--
 | Project | Description | Link | Skills |
 | - | - | - | - |
