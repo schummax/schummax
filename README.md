@@ -27,8 +27,6 @@
 # Maximilian Schumacher 👋
 *B.Eng. Biotechnology ; (M.Sc. Pharma-Biotechnology)*
 
-I am a biotechnology professional with a passion for leveraging computational tools to solve biological problems. My focus lies in the analysis of large-scale biological data, particularly in the fields of genomics and proteomics.
-
 👨🏼‍🎓 I’m currently working on my master’s thesis at the [Gene Center Munich](https://www.genzentrum.uni-muenchen.de/research-groups/klughammer/index.html).
 
 📫 How to reach me: [schummax@icloud.com](mailto:schummax@icloud.com)
