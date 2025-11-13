@@ -55,6 +55,7 @@
 ### 🚀 Project Portfolio
 
 **(🚫 Work in progress ...)**
+Best practice variant calling and variant interpretaion case study, get uploaded in the next days ...
 <!--
 | Project | Description | Link | Skills |
 | - | - | - | - |
