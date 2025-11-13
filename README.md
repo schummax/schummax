@@ -55,7 +55,11 @@
 ### 🚀 Project Portfolio
 
 **(🚫 Work in progress ...)**
-Best practice variant calling and variant interpretaion case study, get uploaded in the next days ...
+
+| Project | Description | Link | Skills |
+| - | - | - | - |
+| Clinical Genomics Reanalysis | Reanalyzing sequencing data with updated variant databases to improve diagnostic yield. | - | `Clinical Genomics`, `Variant Annotation`, `WES/WGS`, ... |
+| Best Practice Variant Calling | Simple snakemake workflow, based on best practices. | - | `Clinical Genomics`, `Variant Annotation`, `WES/WGS`, ... |
 <!--
 | Project | Description | Link | Skills |
 | - | - | - | - |
