@@ -17,7 +17,7 @@
 ...
 
 ### Project Portfolio 
-**(🚫 Work in progress ...)**
+**(👨🏼‍💻 Work in progress ...)**
 
 | 🚀 **Project** | 🔗 **Link** | 🟢 **Skills** |
 | - | - | - |
