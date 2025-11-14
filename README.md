@@ -56,10 +56,11 @@
 
 **(🚫 Work in progress ...)**
 
-| Project | Description | Link | Skills |
-| - | - | - | - |
-| Clinical Genomics Reanalysis | Reanalyzing sequencing data with updated variant databases to improve diagnostic yield. | - | `Clinical Genomics`, `Variant Annotation`, `WES/WGS`, ... |
-| Best Practice Variant Calling | Simple snakemake workflow, based on best practices. | - | `Clinical Genomics`, `Variant Annotation`, `WES/WGS`, ... |
+| Project | Description | Link |
+| - | - | - |
+| Tree example variant classifications (ACMG) | Presentation of three variant classification with rationale. | [example_variant_classifications](https://github.com/schummax/example_variant_classifications) |
+| Clinical Genomics Reanalysis | Reanalyzing sequencing data with updated variant databases to improve diagnostic yield. | - |
+| Best Practice Variant Calling | Simple snakemake workflow, based on best practices. | - |
 <!--
 | Project | Description | Link | Skills |
 | - | - | - | - |
