@@ -32,6 +32,13 @@
 📫 How to reach me: [schummax@icloud.com](mailto:schummax@icloud.com)
 
 ---
+### 🟢 Certificates
+
+I am currently completing two courses:
+1. **Genomic Data Science** *by Johns Hopkins University*
+2. **Interpreting Genomic Variation: Fundamental Principles** *by City St George's, University of London*
+
+---
 
 ### 💻 Skills & Experience
 
