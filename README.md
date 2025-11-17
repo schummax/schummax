@@ -34,10 +34,19 @@
 ---
 ### 🟢 Certificates
 
-I am currently completing two courses:
-1. **Genomic Data Science** *by Johns Hopkins University*
-2. **Interpreting Genomic Variation: Fundamental Principles** *by City St George's, University of London*
+**Interpreting Genomic Variation: Fundamental Principles** *by City St George's, University of London*
+[Certificate](https://www.futurelearn.com/certificates/5hoiyvk)
 
+6-Course-Specialization: **Genomic Data Science** *by Johns Hopkins University*
+| Course name | Status | Certificate |
+|-|-|-|
+| Introduction to Genomic Technologies | _Done_ | [Certificate](https://www.coursera.org/account/accomplishments/records/04GP6YLEKB27) |
+| Python for Genomic Data Science | _...in progress..._ |  |
+| Algorithms for DNA Sequencing | _...coming up..._ |  |
+| Command Line Tools for Genomic Data Science | _...coming up..._ |  |
+| Bioconductor for Genomic Data Science | _...coming up..._ |  |
+| Statistics for Genomic Data Science | _...in progress..._ |  |
+  
 ---
 
 ### 💻 Skills & Experience
@@ -61,7 +70,7 @@ I am currently completing two courses:
 
 ### 🚀 Project Portfolio
 
-**(🚫 Work in progress ...)**
+**(👨🏼‍💻 Work in progress ...)**
 
 | Project | Description | Link |
 | - | - | - |
