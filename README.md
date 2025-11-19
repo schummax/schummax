@@ -75,7 +75,7 @@
 | Project | Description | Link |
 | - | - | - |
 | Tree example variant classifications (ACMG) | Presentation of three variant classification with rationale. | [example_variant_classifications](https://github.com/schummax/example_variant_classifications) |
-| Clinical Genomics Reanalysis | Reanalyzing sequencing data with updated variant databases to improve diagnostic yield. | - |
+| Max_DRY_utils | Library of opinionated functions for typical bioinformatics and analysis tasks. | [max_dry_utils](https://github.com/schummax/max_dry_utils) |
 | Best Practice Variant Calling | Simple snakemake workflow, based on best practices. | - |
 <!--
 | Project | Description | Link | Skills |
