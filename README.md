@@ -41,7 +41,7 @@
 | Course name | Status | Certificate |
 |-|-|-|
 | Introduction to Genomic Technologies | _Done_ | [Certificate](https://www.coursera.org/account/accomplishments/records/04GP6YLEKB27) |
-| Python for Genomic Data Science | _...in progress..._ |  |
+| Python for Genomic Data Science | _Done_ | [Certificate](https://www.coursera.org/account/accomplishments/records/JCA29TBF813U) |
 | Algorithms for DNA Sequencing | _...coming up..._ |  |
 | Command Line Tools for Genomic Data Science | _...coming up..._ |  |
 | Bioconductor for Genomic Data Science | _...coming up..._ |  |
