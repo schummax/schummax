@@ -42,23 +42,32 @@
 |-|-|-|
 | Introduction to Genomic Technologies | _Done_ | [Certificate](https://www.coursera.org/account/accomplishments/records/04GP6YLEKB27) |
 | Python for Genomic Data Science | _Done_ | [Certificate](https://www.coursera.org/account/accomplishments/records/JCA29TBF813U) |
-| Algorithms for DNA Sequencing | _...coming up..._ |  |
-| Command Line Tools for Genomic Data Science | _...coming up..._ |  |
-| Bioconductor for Genomic Data Science | _...coming up..._ |  |
+| Algorithms for DNA Sequencing | _...planned..._ |  |
+| Command Line Tools for Genomic Data Science | _...planned..._ |  |
+| Bioconductor for Genomic Data Science | _...planned..._ |  |
 | Statistics for Genomic Data Science | _...in progress..._ |  |
   
 ---
 
 ### 💻 Skills & Experience
 
-**Languages & Core Libraries:**
+**Languages**
 <br>
+[![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=000000&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
+[![R](https://img.shields.io/static/v1?label=&message=R&color=276DC3&logo=R&logoColor=FFFFFF)](https://www.r-project.org/)
+
+**Core Libraries:**
+<br>
 [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=Pandas&logoColor=FFFFFF)](https://pandas.pydata.org/)
 [![Polars](https://img.shields.io/static/v1?label=&message=Polars&color=150458&logo=Polars&logoColor=FFFFFF)](https://www.pola.rs/)
 [![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=4D77CF&logo=NumPy&logoColor=FFFFFF)](https://numpy.org/)
 [![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF)](https://jupyter.org/)
-[![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=000000&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
+[![Scanpy](https://img.shields.io/static/v1?label=&message=Scanpy&color=3F77BF&logoColor=FFFFFF)](https://scanpy.readthedocs.io/)
+[![AnnData](https://img.shields.io/static/v1?label=&message=AnnData&color=003B57&logoColor=FFFFFF)](https://anndata.readthedocs.io/)
+[![SciPy](https://img.shields.io/static/v1?label=&message=SciPy&color=8CAAE6&logo=SciPy&logoColor=FFFFFF)](https://scipy.org/)
+[![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=11557C&logo=Matplotlib&logoColor=FFFFFF)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=4C72B0&logo=Seaborn&logoColor=FFFFFF)](https://seaborn.pydata.org/)
 
 **Workflow & High-Performance Computing (HPC):**
 <br>
