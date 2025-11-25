@@ -31,6 +31,8 @@
 
 📫 How to reach me: [schummax@icloud.com](mailto:schummax@icloud.com)
 
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/maximilian-schumacher-2016491b4)
+[![ORCID](https://img.shields.io/static/v1?label=&message=ORCID&color=A6CE39&logo=orcid&logoColor=FFFFFF)](https://orcid.org/0009-0003-5788-2411)
 ---
 ### 🟢 Certificates
 
