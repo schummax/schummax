@@ -78,7 +78,7 @@
 [![Slurm](https://img.shields.io/static/v1?label=&message=Slurm&color=003A6A&logo=Slurm&logoColor=FFFFFF)](https://slurm.schedmd.com/)
 
 ---
-
+<!--
 ### 🚀 Project Portfolio
 
 **(👨🏼‍💻 Work in progress ...)**
@@ -88,6 +88,7 @@
 | Three example variant classifications (ACMG) | Presentation of three variant classification with rationale. | [example_variant_classifications](https://github.com/schummax/example_variant_classifications) |
 | Max_DRY_utils | Library of opinionated functions for typical bioinformatics and analysis tasks. | [max_dry_utils](https://github.com/schummax/max_dry_utils) |
 | Best Practice Variant Calling | Simple snakemake workflow, based on best practices. | - |
+-->
 <!--
 | Project | Description | Link | Skills |
 | - | - | - | - |
